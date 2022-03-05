@@ -1,8 +1,10 @@
-# DOM-project-TASK-TIME
+# TASK-TIME
 showcases the basic to intermediate understanding of DOM manipulation.
 
 ## Project description
-This is a project done using Javascript DOM Manipulation to create a day to day planning website.
+This is a project done using Javascript DOM Manipulation to create a day to day planning website, that
+functions just like a diary to keep track of the activities one needs to get done by the end of
+the day.
 
 ## Screenshots
 ![homepage1](https://user-images.githubusercontent.com/83421867/156884180-ab88509e-748c-49aa-a8e3-45261ab1d35d.PNG)
