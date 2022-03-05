@@ -13,7 +13,7 @@ showcases the basic to intermediate understanding of DOM manipulation.
 ## Live Demo Link
 [Click here to view](https://raw.githack.com/bakang1398/DOM-project-TASK-TIME/main/index.html)
 
-#3 Built with
+## Built with
 - HTML5
 - CSS3
 - Javascript
@@ -22,9 +22,9 @@ showcases the basic to intermediate understanding of DOM manipulation.
 
 To get a local copy up and running follow these simple example steps.
 - Clone this repository to your local workstation.
- ``
+ `https://github.com/bakang1398/DOM-project-TASK-TIME.git`
 
-`cd `
+`cd DOM-project-TASK-TIME/`
 
 Open index.html in your preferred browser
 
