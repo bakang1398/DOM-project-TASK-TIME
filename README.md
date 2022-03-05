@@ -22,7 +22,8 @@ showcases the basic to intermediate understanding of DOM manipulation.
 
 To get a local copy up and running follow these simple example steps.
 - Clone this repository to your local workstation.
- `https://github.com/bakang1398/DOM-project-TASK-TIME.git`
+
+`https://github.com/bakang1398/DOM-project-TASK-TIME.git`
 
 `cd DOM-project-TASK-TIME/`
 
